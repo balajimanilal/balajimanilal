@@ -1,12 +1,13 @@
 <h2 align="left">🙏🏻 Welcome to my Profile </h2>
 
-👋 Hello, I'm Balaji! I am a passionate and dedicated Data Analyst enthusiast, transitioning from a non-IT background with over 4 years of experience. As a newcomer to the field of Data Science, I am eager to apply my skills and knowledge to innovative projects and real-world problems.
-
-# 🧑🏻‍💼 About Me
 * Name: Balaji B M
 * Role: Data Analyst
 * Experience: 4+ years in a non-IT field
 * Location: Bangalore, India
+
+# Profile Summary
+
+👋 Hello, I'm Balaji! I am a passionate and dedicated Data Analyst enthusiast, transitioning from a non-IT background with over 4 years of experience. As a newcomer to the field of Data Science, I am eager to apply my skills and knowledge to innovative projects and real-world problems.
 
 # 🔧 Skills
 * Python
